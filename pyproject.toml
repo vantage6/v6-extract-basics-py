@@ -13,7 +13,7 @@ dependencies = [
   "pandas",
 ]
 authors = [
-    # TODO add authors
+  { name = "Bart van Beusekom", email = "b.vanbeusekom@iknl.nl" },
 ]
 license = { text = "MIT" }
 keywords = ["vantage6", "algorithm", "federated-learning"]
@@ -24,10 +24,12 @@ classifiers = [
 ]
 
 [project.urls]
-# TODO add urls
+Homepage = "https://github.com/vantage6/v6-extract-basics-py"
+Repository = "https://github.com/vantage6/v6-extract-basics-py"
+Issues = "https://github.com/vantage6/v6-extract-basics-py/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["v6-extract-basics-py"]
 
 [tool.uv]
-prereleases = "allow"
+prerelease = "allow"
