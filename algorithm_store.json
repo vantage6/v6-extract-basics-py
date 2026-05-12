@@ -1,0 +1,9 @@
+{
+  "name": "v6-extract-basics-py",
+  "image": "ghcr.io/vantage6/algorithm/extract-basics",
+  "vantage6_version": "5.0",
+  "code_url": "https://mygitrepo.org",
+  "documentation_url": "",
+  "partitioning": "horizontal",
+  "functions": []
+}
