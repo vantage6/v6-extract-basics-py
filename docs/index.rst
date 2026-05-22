@@ -1,5 +1,5 @@
-v6-extract-basics-py
-==================
+Data extraction basics
+======================
 
 Description
 -----------
