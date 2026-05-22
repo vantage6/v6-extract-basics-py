@@ -36,7 +36,7 @@
           "type": "string",
           "has_default_value": true,
           "is_frontend_only": false,
-          "default": null
+          "default_value": null
         }
       ],
       "databases": [
