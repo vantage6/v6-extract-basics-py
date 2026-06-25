@@ -30,6 +30,3 @@ Issues = "https://github.com/vantage6/v6-extract-basics-py/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["v6-extract-basics-py"]
-
-[tool.uv]
-prerelease = "allow"
