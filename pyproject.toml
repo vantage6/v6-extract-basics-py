@@ -4,12 +4,12 @@ build-backend = "hatchling.build"
 
 [project]
 name = "v6-extract-basics-py"
-version = "1.0.0"
+version = "5.0.1"
 description = "This algorithm makes the extraction functions defined in the vantage6 algorithm tools available in an algorithm image."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-  "vantage6-algorithm-tools>=5.0.0a43",
+  "vantage6-algorithm-tools>=5.0.1",
   "pandas",
 ]
 authors = [
